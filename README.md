@@ -97,6 +97,3 @@ Contributions are welcome! Feel free to:
 Please open an issue or pull request before making major changes.
 
 ---
-
-Do you want me to do that?
-```
