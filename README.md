@@ -98,11 +98,5 @@ Please open an issue or pull request before making major changes.
 
 ---
 
-## License
-
-This project is **open source** and available under the MIT License.
-
-```
-
 Do you want me to do that?
 ```
